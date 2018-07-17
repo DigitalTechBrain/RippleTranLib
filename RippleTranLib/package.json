@@ -1,0 +1,9 @@
+{
+  "name": "ripple-tran-lib",
+  "version": "0.0.0",
+  "description": "RippleTranLib",
+  "main": "server.js",
+  "author": {
+    "name": "user"
+  }
+}
